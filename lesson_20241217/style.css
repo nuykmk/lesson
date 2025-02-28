@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* リセットcss 必要なこと */
+  /* background-color: #9ca686; */
+}
+.wrapper {
+  background-color: #9ca686;
+  width: 600px;
+
+  margin: 0 auto;
+}
+h1 {
+  padding-bottom: 10px;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  margin-left: 50px;
+}
+
+li {
+  background-color: #d9cb89;
+  margin: 8px 8px;
+}
+.text {
+  margin: 20px 0;
+}
+
+.box {
+  border: 1px solid;
+  width: 200px;
+  margin: auto;
+}
+h2 {
+  text-align: center;
+}
+main {
+  padding-bottom: 30px;
+}
+.copyright {
+  text-align: center;
+}
